@@ -1,1 +1,2 @@
 # scamify
+my first project
